@@ -1,0 +1,8 @@
+{
+  "source": "tcp",
+  "base_ip": "100.125.163.60",
+  "tcp_port": 2101,
+  "gnss_out_port": "/dev/ttyUSB0",
+  "gnss_out_baud": 115200,
+  "str2str": "/home/lao2/.local/bin/str2str"
+}

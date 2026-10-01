@@ -1,0 +1,7 @@
+{
+  "source": "lora",
+  "lora_port": "/dev/ttyUSB1",
+  "lora_baud": 115200,
+  "gnss_out_port": "/dev/ttyUSB0",
+  "gnss_out_baud": 115200
+}
